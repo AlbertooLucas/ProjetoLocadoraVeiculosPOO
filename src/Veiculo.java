@@ -51,7 +51,7 @@ public class Veiculo {
         return diaria;
     }
 
-    pubnlic void setDiaria(double diaria) {
+    public void setDiaria(double diaria) {
         this.diaria = diaria;
     }
 
