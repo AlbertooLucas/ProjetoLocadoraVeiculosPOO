@@ -16,7 +16,7 @@ public class Veiculo {
     }
 
     public String getPlaca() {
-        retrurn placa;
+        return placa;
     }
 
     public void setPlaca(String placa) {
@@ -60,6 +60,6 @@ public class Veiculo {
     }
 
     public void setDisponivel(boolean disponivel) {
-        thjisdisponivel = disponivel;
+        this.disponivel = disponivel;
     }
 }
